@@ -5,3 +5,8 @@
 .navegacion a {
     font-size: 15px;
 }
+
+.a-sm:hover:hover {
+    border-bottom: 1px solid rgb(80, 80, 148);
+}
+
